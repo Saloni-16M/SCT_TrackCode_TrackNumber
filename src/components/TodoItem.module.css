@@ -1,0 +1,13 @@
+input{
+    width: 80%;
+    margin: auto;
+  }
+  .items-container{
+    text-align: left;
+  }
+  .kg-row{
+    margin: 10px 5px;
+  }
+  .kg-button{
+    width: 12rem;
+  }
